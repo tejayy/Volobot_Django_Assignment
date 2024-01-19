@@ -1,5 +1,3 @@
-Certainly! Below is an example README file for your Django project repository:
-
 ---
 
 # Volobot Django Assignment
@@ -105,5 +103,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to Volobot for the assignment.
 
 ---
-
-Feel free to customize this README based on your project's specifics and requirements.
